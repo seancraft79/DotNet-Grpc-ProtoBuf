@@ -581,11 +581,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PROJECTS\\DOTNET\\GRPC-PROTOBUF\\GrpcStream.csproj",
+      "projectUniqueName": "C:\\PROJECTS\\DOTNET\\DotNet-Grpc-ProtoBuf\\GrpcStream.csproj",
       "projectName": "GrpcStream",
-      "projectPath": "C:\\PROJECTS\\DOTNET\\GRPC-PROTOBUF\\GrpcStream.csproj",
+      "projectPath": "C:\\PROJECTS\\DOTNET\\DotNet-Grpc-ProtoBuf\\GrpcStream.csproj",
       "packagesPath": "C:\\Users\\seang\\.nuget\\packages\\",
-      "outputPath": "C:\\PROJECTS\\DOTNET\\GRPC-PROTOBUF\\obj\\",
+      "outputPath": "C:\\PROJECTS\\DOTNET\\DotNet-Grpc-ProtoBuf\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

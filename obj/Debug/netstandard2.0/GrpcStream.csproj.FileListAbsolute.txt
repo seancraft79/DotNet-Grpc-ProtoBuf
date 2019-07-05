@@ -52,3 +52,12 @@ C:\PROJECTS\DOTNET\GRPC-PROTOBUF\obj\Debug\netstandard2.0\GrpcStream.AssemblyInf
 C:\PROJECTS\DOTNET\GRPC-PROTOBUF\obj\Debug\netstandard2.0\GrpcStream.AssemblyInfo.cs
 C:\PROJECTS\DOTNET\GRPC-PROTOBUF\obj\Debug\netstandard2.0\GrpcStream.dll
 C:\PROJECTS\DOTNET\GRPC-PROTOBUF\obj\Debug\netstandard2.0\GrpcStream.pdb
+C:\PROJECTS\DOTNET\DotNet-Grpc-ProtoBuf\bin\Debug\netstandard2.0\GrpcStream.deps.json
+C:\PROJECTS\DOTNET\DotNet-Grpc-ProtoBuf\bin\Debug\netstandard2.0\GrpcStream.dll
+C:\PROJECTS\DOTNET\DotNet-Grpc-ProtoBuf\bin\Debug\netstandard2.0\GrpcStream.pdb
+C:\PROJECTS\DOTNET\DotNet-Grpc-ProtoBuf\obj\Debug\netstandard2.0\GrpcStream.csprojAssemblyReference.cache
+C:\PROJECTS\DOTNET\DotNet-Grpc-ProtoBuf\obj\Debug\netstandard2.0\GrpcStream.csproj.CoreCompileInputs.cache
+C:\PROJECTS\DOTNET\DotNet-Grpc-ProtoBuf\obj\Debug\netstandard2.0\GrpcStream.AssemblyInfoInputs.cache
+C:\PROJECTS\DOTNET\DotNet-Grpc-ProtoBuf\obj\Debug\netstandard2.0\GrpcStream.AssemblyInfo.cs
+C:\PROJECTS\DOTNET\DotNet-Grpc-ProtoBuf\obj\Debug\netstandard2.0\GrpcStream.dll
+C:\PROJECTS\DOTNET\DotNet-Grpc-ProtoBuf\obj\Debug\netstandard2.0\GrpcStream.pdb

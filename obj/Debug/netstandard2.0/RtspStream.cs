@@ -28,8 +28,8 @@ namespace Rtspstream {
             "DQoFdG9rZW4YASABKAkSDwoHY2hhbm5lbBgCIAEoBRISCgppbWFnZVdpZHRo",
             "GAMgASgFEhMKC2ltYWdlSGVpZ2h0GAQgASgFIh8KCUNoZWNrRGF0YRISCgpy",
             "ZWFkeUNoZWNrGAEgASgFIlAKClN0cmVhbURhdGESDQoFdG9rZW4YASABKAkS",
-            "DwoHY2hhbm5lbBgCIAEoBRITCgtjYXJEZXRlY3RlZBgEIAEoBRINCgVpbWFn",
-            "ZRgFIAEoDDKSAQoKUnRzcHN0cmVhbRI/CgxHZXRTdHJlYW1pbmcSFS5ydHNw",
+            "DwoHY2hhbm5lbBgCIAEoBRITCgtjYXJEZXRlY3RlZBgDIAEoBRINCgVpbWFn",
+            "ZRgEIAEoDDKSAQoKUnRzcHN0cmVhbRI/CgxHZXRTdHJlYW1pbmcSFS5ydHNw",
             "c3RyZWFtLkF1dGhUb2tlbhoWLnJ0c3BzdHJlYW0uU3RyZWFtRGF0YSIAEkMK",
             "EUdldENoZWNrU3RyZWFtaW5nEhUucnRzcHN0cmVhbS5BdXRoVG9rZW4aFS5y",
             "dHNwc3RyZWFtLkNoZWNrRGF0YSIAYgZwcm90bzM="));
@@ -447,7 +447,7 @@ namespace Rtspstream {
     }
 
     /// <summary>Field number for the "carDetected" field.</summary>
-    public const int CarDetectedFieldNumber = 4;
+    public const int CarDetectedFieldNumber = 3;
     private int carDetected_;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CarDetected {
@@ -458,7 +458,7 @@ namespace Rtspstream {
     }
 
     /// <summary>Field number for the "image" field.</summary>
-    public const int ImageFieldNumber = 5;
+    public const int ImageFieldNumber = 4;
     private pb::ByteString image_ = pb::ByteString.Empty;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public pb::ByteString Image {
@@ -517,11 +517,11 @@ namespace Rtspstream {
         output.WriteInt32(Channel);
       }
       if (CarDetected != 0) {
-        output.WriteRawTag(32);
+        output.WriteRawTag(24);
         output.WriteInt32(CarDetected);
       }
       if (Image.Length != 0) {
-        output.WriteRawTag(42);
+        output.WriteRawTag(34);
         output.WriteBytes(Image);
       }
       if (_unknownFields != null) {
@@ -586,11 +586,11 @@ namespace Rtspstream {
             Channel = input.ReadInt32();
             break;
           }
-          case 32: {
+          case 24: {
             CarDetected = input.ReadInt32();
             break;
           }
-          case 42: {
+          case 34: {
             Image = input.ReadBytes();
             break;
           }

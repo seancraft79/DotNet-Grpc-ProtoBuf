@@ -20,6 +20,6 @@ message CheckData {
 message StreamData {
   string token = 1;
   int32 channel = 2;
-  int32 carDetected = 4;
-  bytes image = 5;
+  int32 carDetected = 3;
+  bytes image = 4;
 }
