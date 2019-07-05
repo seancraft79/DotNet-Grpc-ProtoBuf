@@ -1,0 +1,25 @@
+syntax = "proto3";
+package rtspstream;
+
+service Rtspstream {
+  rpc GetStreaming(AuthToken) returns (StreamData) {}
+  rpc GetCheckStreaming(AuthToken) returns (CheckData) {}
+}
+
+message AuthToken {
+  string token = 1;
+  int32 channel = 2;
+  int32 imageWidth = 3;
+  int32 imageHeight = 4;
+}
+
+message CheckData {
+  int32 readyCheck = 1;
+}
+
+message StreamData {
+  string token = 1;
+  int32 channel = 2;
+  int32 carDetected = 4;
+  bytes image = 5;
+}

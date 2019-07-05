@@ -1,0 +1,54 @@
+C:\PROJECTS\DOTNET\RtspClientSharp\GrpcStream\bin\Debug\netstandard2.0\GrpcStream.deps.json
+C:\PROJECTS\DOTNET\RtspClientSharp\GrpcStream\bin\Debug\netstandard2.0\GrpcStream.dll
+C:\PROJECTS\DOTNET\RtspClientSharp\GrpcStream\obj\Debug\netstandard2.0\GrpcStream.csproj.CoreCompileInputs.cache
+C:\PROJECTS\DOTNET\RtspClientSharp\GrpcStream\obj\Debug\netstandard2.0\GrpcStream.AssemblyInfoInputs.cache
+C:\PROJECTS\DOTNET\RtspClientSharp\GrpcStream\obj\Debug\netstandard2.0\GrpcStream.AssemblyInfo.cs
+C:\PROJECTS\DOTNET\RtspClientSharp\GrpcStream\obj\Debug\netstandard2.0\GrpcStream.csprojAssemblyReference.cache
+C:\PROJECTS\DOTNET\RtspClientSharp\GrpcStream\bin\Debug\netstandard2.0\GrpcStream.pdb
+C:\PROJECTS\DOTNET\RtspClientSharp\GrpcStream\obj\Debug\netstandard2.0\GrpcStream.dll
+C:\PROJECTS\DOTNET\RtspClientSharp\GrpcStream\obj\Debug\netstandard2.0\GrpcStream.pdb
+C:\PROJECTS\DOTNET\RtspClientSharp2\GrpcStream\bin\Debug\netstandard2.0\GrpcStream.deps.json
+C:\PROJECTS\DOTNET\RtspClientSharp2\GrpcStream\bin\Debug\netstandard2.0\GrpcStream.dll
+C:\PROJECTS\DOTNET\RtspClientSharp2\GrpcStream\bin\Debug\netstandard2.0\GrpcStream.pdb
+C:\PROJECTS\DOTNET\RtspClientSharp2\GrpcStream\obj\Debug\netstandard2.0\GrpcStream.csproj.CoreCompileInputs.cache
+C:\PROJECTS\DOTNET\RtspClientSharp2\GrpcStream\obj\Debug\netstandard2.0\GrpcStream.AssemblyInfoInputs.cache
+C:\PROJECTS\DOTNET\RtspClientSharp2\GrpcStream\obj\Debug\netstandard2.0\GrpcStream.AssemblyInfo.cs
+C:\PROJECTS\DOTNET\RtspClientSharp2\GrpcStream\obj\Debug\netstandard2.0\GrpcStream.dll
+C:\PROJECTS\DOTNET\RtspClientSharp2\GrpcStream\obj\Debug\netstandard2.0\GrpcStream.pdb
+C:\PROJECTS\DOTNET\RtspClientSharp2\GrpcStream\obj\Debug\netstandard2.0\GrpcStream.csprojAssemblyReference.cache
+C:\PROJECTS\DOTNET\FFmpeg usbCam\GrpcStream\bin\Debug\netstandard2.0\GrpcStream.deps.json
+C:\PROJECTS\DOTNET\FFmpeg usbCam\GrpcStream\bin\Debug\netstandard2.0\GrpcStream.dll
+C:\PROJECTS\DOTNET\FFmpeg usbCam\GrpcStream\bin\Debug\netstandard2.0\GrpcStream.pdb
+C:\PROJECTS\DOTNET\FFmpeg usbCam\GrpcStream\obj\Debug\netstandard2.0\GrpcStream.csprojAssemblyReference.cache
+C:\PROJECTS\DOTNET\FFmpeg usbCam\GrpcStream\obj\Debug\netstandard2.0\GrpcStream.csproj.CoreCompileInputs.cache
+C:\PROJECTS\DOTNET\FFmpeg usbCam\GrpcStream\obj\Debug\netstandard2.0\GrpcStream.AssemblyInfoInputs.cache
+C:\PROJECTS\DOTNET\FFmpeg usbCam\GrpcStream\obj\Debug\netstandard2.0\GrpcStream.AssemblyInfo.cs
+C:\PROJECTS\DOTNET\FFmpeg usbCam\GrpcStream\obj\Debug\netstandard2.0\GrpcStream.dll
+C:\PROJECTS\DOTNET\FFmpeg usbCam\GrpcStream\obj\Debug\netstandard2.0\GrpcStream.pdb
+C:\PROJECTS\DOTNET\FFmpegUsbCamGrpcServer\GrpcStream\bin\Debug\netstandard2.0\GrpcStream.deps.json
+C:\PROJECTS\DOTNET\FFmpegUsbCamGrpcServer\GrpcStream\bin\Debug\netstandard2.0\GrpcStream.dll
+C:\PROJECTS\DOTNET\FFmpegUsbCamGrpcServer\GrpcStream\bin\Debug\netstandard2.0\GrpcStream.pdb
+C:\PROJECTS\DOTNET\FFmpegUsbCamGrpcServer\GrpcStream\obj\Debug\netstandard2.0\GrpcStream.csprojAssemblyReference.cache
+C:\PROJECTS\DOTNET\FFmpegUsbCamGrpcServer\GrpcStream\obj\Debug\netstandard2.0\GrpcStream.csproj.CoreCompileInputs.cache
+C:\PROJECTS\DOTNET\FFmpegUsbCamGrpcServer\GrpcStream\obj\Debug\netstandard2.0\GrpcStream.AssemblyInfoInputs.cache
+C:\PROJECTS\DOTNET\FFmpegUsbCamGrpcServer\GrpcStream\obj\Debug\netstandard2.0\GrpcStream.AssemblyInfo.cs
+C:\PROJECTS\DOTNET\FFmpegUsbCamGrpcServer\GrpcStream\obj\Debug\netstandard2.0\GrpcStream.dll
+C:\PROJECTS\DOTNET\FFmpegUsbCamGrpcServer\GrpcStream\obj\Debug\netstandard2.0\GrpcStream.pdb
+C:\PROJECTS\DOTNET\FFMpeg-Grpc-UsbWebCam-Streaming-Server\GrpcStream\bin\Debug\netstandard2.0\GrpcStream.deps.json
+C:\PROJECTS\DOTNET\FFMpeg-Grpc-UsbWebCam-Streaming-Server\GrpcStream\bin\Debug\netstandard2.0\GrpcStream.dll
+C:\PROJECTS\DOTNET\FFMpeg-Grpc-UsbWebCam-Streaming-Server\GrpcStream\bin\Debug\netstandard2.0\GrpcStream.pdb
+C:\PROJECTS\DOTNET\FFMpeg-Grpc-UsbWebCam-Streaming-Server\GrpcStream\obj\Debug\netstandard2.0\GrpcStream.csprojAssemblyReference.cache
+C:\PROJECTS\DOTNET\FFMpeg-Grpc-UsbWebCam-Streaming-Server\GrpcStream\obj\Debug\netstandard2.0\GrpcStream.csproj.CoreCompileInputs.cache
+C:\PROJECTS\DOTNET\FFMpeg-Grpc-UsbWebCam-Streaming-Server\GrpcStream\obj\Debug\netstandard2.0\GrpcStream.AssemblyInfoInputs.cache
+C:\PROJECTS\DOTNET\FFMpeg-Grpc-UsbWebCam-Streaming-Server\GrpcStream\obj\Debug\netstandard2.0\GrpcStream.AssemblyInfo.cs
+C:\PROJECTS\DOTNET\FFMpeg-Grpc-UsbWebCam-Streaming-Server\GrpcStream\obj\Debug\netstandard2.0\GrpcStream.dll
+C:\PROJECTS\DOTNET\FFMpeg-Grpc-UsbWebCam-Streaming-Server\GrpcStream\obj\Debug\netstandard2.0\GrpcStream.pdb
+C:\PROJECTS\DOTNET\GRPC-PROTOBUF\bin\Debug\netstandard2.0\GrpcStream.deps.json
+C:\PROJECTS\DOTNET\GRPC-PROTOBUF\bin\Debug\netstandard2.0\GrpcStream.dll
+C:\PROJECTS\DOTNET\GRPC-PROTOBUF\bin\Debug\netstandard2.0\GrpcStream.pdb
+C:\PROJECTS\DOTNET\GRPC-PROTOBUF\obj\Debug\netstandard2.0\GrpcStream.csprojAssemblyReference.cache
+C:\PROJECTS\DOTNET\GRPC-PROTOBUF\obj\Debug\netstandard2.0\GrpcStream.csproj.CoreCompileInputs.cache
+C:\PROJECTS\DOTNET\GRPC-PROTOBUF\obj\Debug\netstandard2.0\GrpcStream.AssemblyInfoInputs.cache
+C:\PROJECTS\DOTNET\GRPC-PROTOBUF\obj\Debug\netstandard2.0\GrpcStream.AssemblyInfo.cs
+C:\PROJECTS\DOTNET\GRPC-PROTOBUF\obj\Debug\netstandard2.0\GrpcStream.dll
+C:\PROJECTS\DOTNET\GRPC-PROTOBUF\obj\Debug\netstandard2.0\GrpcStream.pdb

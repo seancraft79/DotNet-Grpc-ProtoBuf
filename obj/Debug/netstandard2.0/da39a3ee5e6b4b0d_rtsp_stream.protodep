@@ -1,0 +1,2 @@
+obj\Debug\netstandard2.0/RtspStream.cs \
+obj\Debug\netstandard2.0/RtspStreamGrpc.cs: rtsp_stream.proto
